@@ -11,7 +11,7 @@ namespace Task4
         static void Main(string[] args)
         {
             double eps,summ=0;//eps - заданная точность, summ - итоговая сумма
-            bool OK=true;//Проверка корректности ввода
+            bool OK=true;//Проверка корректности ввода 
             do
             {
                 if (!OK) Console.WriteLine("Ошибка ввода!");
